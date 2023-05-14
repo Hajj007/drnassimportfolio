@@ -290,7 +290,7 @@ const projects = [
       },*/
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.researchgate.net/publication/311453698_Bone_marrow_derived_stem_cell_therapy_for_type_2_diabetes_mellitus",
   },
 ];
 
